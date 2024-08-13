@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thisangathewanmi(https://www.linkedin.com/in/thisanga-thewanmi-8a36172a4/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisanga thewanmi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thisangathewanmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisanga thewanmi" height="30" width="40" /></a>
 <a href="https://instagram.com/_kavindya_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindya_16" height="30" width="40" /></a>
 <a href="https://medium.com/@thisangat2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thisangat2005" height="30" width="40" /></a>
 </p>
